@@ -60,14 +60,9 @@ namespace GEngine
             /// casts this vector onto aOther.
             /// can be used to find the angle between two vectors
             /// </summary>
-            public float Dot( GVector aOther)
+            1public float Dot( GVector aOther)
             {
                 return x * aOther.x + y * aOther.y;
-            }
-
-            public int operator *()
-            {
-
             }
     
         }
@@ -78,6 +73,10 @@ namespace GEngine
                 Console.WriteLine("[ " + vector.x + ", " + vector.y + " ]");
             }
         }
+        /// <summary>
+        /// A custom Math library that covers several useful functions that can be used in games. This is likely not
+        /// more efficient than the standard math libary but I am sure it will come in useful
+        /// </summary>
         public static class Math
         {
             public const double PI = 3.142;
@@ -118,7 +117,6 @@ namespace GEngine
             public static double Tan(double x)
             {
                 return Sin(x) / Cos(x);
-
             }
 
             /// <summary>
@@ -135,7 +133,7 @@ namespace GEngine
             public static double Round(double x, int n)
             {
                 x *= Pow(10,n);
-                double value = x >= 0 ? (int)(x + .5) : (int)(x - 0.5);
+                double value =x >= 0 ? (int)(x + .5) : (int)(x - 0.5);
                 return value /= Pow(10,n);
             }
 
@@ -175,6 +173,19 @@ namespace GEngine
             {
                 return System.Math.Sqrt(x);
             }
+
+            public static double Abs(double val)
+            {
+                return val < 0 ? val * -1 : val;
+            }
+
+            /*
+            public static double ACos(double val)
+            {
+                //-1 <= val <= 1
+                // calculates the angle based on the value
+            }
+            */
         }
 
     }
