@@ -1,0 +1,7 @@
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\bin\Debug\GEngine.exe.config
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\bin\Debug\GEngine.exe
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\bin\Debug\GEngine.pdb
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\obj\Debug\GEngine.csprojAssemblyReference.cache
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\obj\Debug\GEngine.csproj.CoreCompileInputs.cache
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\obj\Debug\GEngine.exe
+C:\Users\lleyt\Desktop\Coding\C#\Engine\GEngine\GEngine\obj\Debug\GEngine.pdb

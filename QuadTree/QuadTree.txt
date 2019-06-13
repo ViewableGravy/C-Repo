@@ -1,0 +1,155 @@
+
+    public class GameMain
+    {
+        public static void Main()
+        {
+            int width = 800;
+            int height = 600;
+
+            Rectangle boundary = new Rectangle(width/2, height/2, width/2, height/2);
+            QuadTree qt = new QuadTree(boundary);
+
+            for (int i = 0; i < 1000; i++)
+            {
+                Point pt = new Point(SwinGame.Rnd(width),SwinGame.Rnd(height));
+                qt.Insert(pt); 
+            }
+
+            SwinGame.OpenGraphicsWindow("GameMain", width, height);
+            SwinGame.ShowSwinGameSplashScreen();
+            while(false == SwinGame.WindowCloseRequested())
+            {
+                SwinGame.ProcessEvents();
+                SwinGame.ClearScreen(Color.White);
+
+                qt.DrawPoints();
+
+                SwinGame.DrawFramerate(0,0);
+                SwinGame.RefreshScreen(60);
+            }
+        }
+    }
+
+
+
+	// an object that contains child quadtrees, Points are stored within the quadtree
+	// so that when searching for a point (e.g. collison detection), It only needs
+	// to check points in the quadtree that it is in, thus reducing the checks from
+	// n^2 to n + nlogn: e.g. 1000 ^2 = 1 million, 1000 + 1000log(1000) = 4000, a 200x 
+	// performance increase
+
+    public class QuadTree
+    {
+        private Rectangle _rectangle;
+        private List<Point> ptList = new List<Point>();
+        private const int CAPACITY = 4;
+        private Rectangle ne, nw, se, sw;
+        private QuadTree NorthEast, NorthWest, SouthEast, SouthWest;
+        private bool divided;
+        public QuadTree(Rectangle Boundary)
+        {
+            _rectangle = Boundary;
+            divided = false;
+        }
+
+	// adds a point to the quadtree in the correct child quadtree depending on its location
+        public void Insert(Point pt)
+        {
+            if (!_rectangle.Contains(pt))
+                return;
+            if (ptList.Count < CAPACITY)
+            {
+                ptList.Add(pt);
+            }
+            else
+            {
+                if (!divided)
+                {
+                    SubDivide();
+                }
+
+                NorthEast.Insert(pt);
+                SouthEast.Insert(pt);
+                SouthWest.Insert(pt);
+                NorthWest.Insert(pt);
+            }
+        }
+
+	//creates child quadtrees
+        private void SubDivide()
+        {
+            nw = new Rectangle(_rectangle._x - ((_rectangle._w)/2), _rectangle._y - ((_rectangle._h)/2), _rectangle._w / 2, _rectangle._h / 2);
+            ne = new Rectangle(_rectangle._x + ((_rectangle._w) / 2), _rectangle._y - ((_rectangle._h) / 2), _rectangle._w / 2, _rectangle._h / 2);
+            se = new Rectangle(_rectangle._x + ((_rectangle._w) / 2), _rectangle._y + ((_rectangle._h) / 2), _rectangle._w / 2, _rectangle._h / 2);
+            sw = new Rectangle(_rectangle._x - ((_rectangle._w) / 2), _rectangle._y + ((_rectangle._h) / 2), _rectangle._w / 2, _rectangle._h / 2);
+
+            NorthEast = new QuadTree(ne);
+            NorthWest = new QuadTree(nw);
+            SouthEast = new QuadTree(se);
+            SouthWest = new QuadTree(sw);
+
+            divided = true;
+        }
+
+	// Draws all points that are contained within the QuadTree
+        public void DrawPoints()
+        {
+            int x = _rectangle._x;
+            int y = _rectangle._y;
+            int w = _rectangle._w;
+            int h = _rectangle._h;
+            SwinGame.DrawRectangle(SwinGame.ColorBlack(), x - w, y - h, w * 2, h * 2);
+          // SwinGame.DrawRectangle(SwinGame.ColorBlack(), _rectangle._x - 1 - _rectangle._w , _rectangle._y - 1 - _rectangle._h, 2 + (_rectangle._w *2),2+( _rectangle._h *2));
+            //SwinGame.DrawRectangle(SwinGame.ColorWhite(), _rectangle._x - _rectangle._w, _rectangle._y - _rectangle._h, _rectangle._w *2, _rectangle._h *2);
+                
+            foreach (Point pt in ptList)
+            {
+                SwinGame.DrawCircle(SwinGame.ColorBlack(), pt._x, pt._y, 1);
+            }
+		//Checks if the quadtree has child quadtrees and if so runs this method from them
+            if (divided)
+            {
+                NorthWest.DrawPoints();
+                NorthEast.DrawPoints();
+                SouthWest.DrawPoints();
+                SouthEast.DrawPoints();
+            }
+        }
+    }
+
+
+	//creates a point object which has an X and a Y
+    public class Point
+    {
+        public int _x, _y;
+        public Point(int x,int y)
+        {
+            _x = x;
+            _y = y;
+        }
+    }
+
+
+	// creates a rectangle object that has a x,y width and height
+    public class Rectangle
+    {
+        public int _x, _y, _w, _h;
+        public Rectangle(int x, int y, int w, int h)
+        {
+            _x = x;
+            _y = y;
+            _w = w;
+            _h = h;
+        }
+
+	// checks if a point is contained with a rectangle
+        public bool Contains(Point pt)
+        {
+            if (pt._x < _x + _w && pt._x > _x - _w && pt._y < _y + _h && pt._y > _y - _h)
+                return true;
+            return false;
+        }
+    }
+
+    
+

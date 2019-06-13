@@ -1,0 +1,112 @@
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Lleyton\Desktop\Coding\Swinburne\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\lleyt\Google Drive\swinburne Documents\Object_Oriented_Programming\2.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\animations\startup.txt
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\fdFile.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\sounds\error.wav
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\SwinGame.icns
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\SwinGame.ico
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\MyGame.exe
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\MyGame.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\bin\Debug\SwinGame.dll
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Lleyton\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\animations\startup.txt
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\bundles\splash.txt
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\fdFile.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\fdFolder.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\sounds\error.wav
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\SwinGame.icns
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\Resources\SwinGame.ico
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\MyGame.exe
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\MyGame.pdb
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\bin\Debug\SwinGame.dll
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\lleyt\Desktop\Coding\C#\QuadTree\obj\x86\Debug-Windows\MyGame.pdb
